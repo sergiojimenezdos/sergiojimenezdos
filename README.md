@@ -1,4 +1,11 @@
-### Hi there 👋
+
+# Hello there, my name is Sergio 👋
+
+I'm a software developer focused on implementing solutions related to content management.
+
+I have worked for leading companies in their sectors, initially in the area of digitalisation and process automation tools (Kofax, KTA, ReadSoft, SAP IM). I am currently developing products for all areas of homeland security (.Net, C#, WPF).
+
+I love it and I make my own slogan "Never stop learning".
 
 <!--
 **sergiojimenezdos/sergiojimenezdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
